@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ]
+  ],
+  "legacy_uid": "ea7ae7d6-8aaf-36b1-bd1d-1925066592e9",
+  "instructors": {
+    "content": [
+      "563af061-106b-b1e4-e8d2-bc3d6873e258"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9081c2a-0308-9313-981b-f71c7c309ece",
+    "website": "6-642-continuum-electromechanics-fall-2008"
+  },
+  "course_title": "Continuum Electromechanics",
+  "course_description": "This course focuses on laws, approximations and relations of continuum electromechanics. Topics include mechanical and electromechanical transfer relations, statics and dynamics of electromechanical systems having a static equilibrium, electromechanical flows, and field coupling with thermal and molecular diffusion. Also covered are electrokinetics, streaming interactions, application to materials processing, magnetohydrodynamic and electrohydrodynamic pumps and generators, ferrohydrodynamics, physiochemical systems, heat transfer, continuum feedback control, electron beam devices, and plasma dynamics.\n\n##### Acknowledgements\n\nThe instructor would like to thank Xuancheng Shao and Anyang Hou for transcribing into LaTeX the problem set solutions and exam solutions, respectively.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.642",
+  "course_image_thumbnail": {
+    "content": "d93a9229-50f8-de27-97b9-c4d404ae177d",
+    "website": "6-642-continuum-electromechanics-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Course Introduction"
+  ],
+  "site_uid": "db9113fa-7429-4d40-89c0-fcdfbd10abbd",
+  "site_short_id": "6.642-fall-2008",
+  "title": "Course Metadata"
+}
